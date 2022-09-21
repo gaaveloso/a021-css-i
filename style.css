@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    font-family: 'Comic Sans';
+}
+article {
+    display: block;
+    height: 70px;
+    width: 250px;
+    padding: 20px;
+    color: white;
+    margin: 15px;
+}
+
+#bloco-1 {
+    background-color: rgb(244, 178, 112);
+    border: solid 5px orange;
+}
+
+#bloco-2 {
+    background-color: rgb(46, 159, 51);
+    border: solid 5px rgb(110, 245, 177);
+}
+
+#bloco-3 {
+    background-color: green;
+    border:  5px rgb(117, 255, 3) dashed;
+}
+
+#bloco-4 {
+    background-color: red;
+    border:  5px rgb(243, 134, 134) dashed;
+}
